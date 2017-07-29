@@ -30,3 +30,6 @@
 	- JsonUtils：json和类的转换工具类
 	- Imagebase64：base64字符串转换并存储为文件，将文件内容转为base64字符串
 
+## API Doc URL:
+https://doc.ibeesaas.com/daas
+> 登录密码，请联系云蜂商务：bd@ibeesaas.com
